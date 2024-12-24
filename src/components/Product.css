@@ -1,0 +1,49 @@
+.products
+{
+    width:200px;
+    height: 350px;
+    border: 1px solid #ccc;
+}
+.products img
+{
+    width: 100%;
+    height: 150%;
+}
+.products .img img
+{
+    width: 100%;
+    height: 200%;
+    object-fit: cover;
+}
+.details
+{
+    padding: 5px;
+}
+.details h3
+{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.details p
+{
+    font-size: 14px;
+    font-weight: 500;
+    color: #720;
+}
+.details button
+{
+    margin-top: 5px;
+    padding: 5px 10px;
+    background-color: rgb(4, 186, 186);
+    color: #ccc;
+    border: none;
+    border-radius: 3px;
+}
+.details button:hover
+{
+    background-color: rgb(1, 71, 71);
+}
+.Removebtn
+{
+    background-color: #cf3d3d !important;
+}

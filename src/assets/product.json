@@ -1,0 +1,100 @@
+[
+    {
+        "id":89,
+        "name":"Wheat",
+        "amt":"199",
+        "shop":"Grocerry",
+        "ftype":"cereals",
+        "pic":"https://5.imimg.com/data5/SELLER/Default/2022/7/EW/QZ/NB/32393532/whole-wheat-grain-1000x1000.jpg",
+        "latest":"No"
+    },
+    {
+        "id":124,
+        "name":"green gram",
+        "amt":"299",
+        "shop":"Grocerry",
+        "ftype":"pulses",
+        "pic":"https://www.naatigrains.com/image/cache/catalog/naatigrains-products/NG195/green-gram-masala-multi-vitamins-nuts-seeds-order-now-bangalore-naati-grains-1000x1000.png",
+        "latest":"No"
+    },
+    {
+        "id":129,
+        "name":"Mustard",
+        "amt":"99",
+        "shop":"Grocerry",
+        "ftype":"Brassicaceae",
+        "pic":"https://esoullyf.in/cdn/shop/files/mustard.png?v=1690628886&width=600",
+        "latest":"No"
+    },
+    {
+        "id":5,
+        "name":"Rice",
+        "amt":"899",
+        "shop":"Grocerry",
+        "ftype":"cereals",
+        "pic":"https://5.imimg.com/data5/JC/SZ/YI/SELLER-92614650/long-grain-white-rice-1000x1000.jpg",
+        "latest":"No"
+    },
+    {
+        "id":150,
+        "name":"Capsicum",
+        "amt":"799",
+        "shop":"Grocerry",
+        "ftype":"cereals",
+        "pic":"https://www.csrorganics.com/image/cachewebp/catalog/Product/seeds/chilli/red-capsicum-seeds-1000x1000.webp",
+        "latest":"No"
+    },
+    {
+        "id":55,
+        "name":"Ginger",
+        "amt":"699",
+        "shop":"Grocerry",
+        "ftype":"cereals",
+        "pic":"https://5.imimg.com/data5/SELLER/Default/2022/2/RN/PF/IP/2231112/fresh-ginger-vegetable-1000x1000.jpg",
+        "latest":"No"
+    },
+    {
+        "id":98,
+        "name":"Garlic",
+        "amt":"599",
+        "shop":"Grocerry",
+        "ftype":"cereals",
+        "pic":"https://www.jiomart.com/images/product/original/590003532/indian-garlic-200-g-product-images-o590003532-p590003532-0-202408070949.jpg?im=Resize=(420,420)",
+        "latest":"No"
+    },
+    {
+        "id":69,
+        "name":"Black pepper",
+        "amt":"399",
+        "shop":"Grocerry",
+        "ftype":"cereals",
+        "pic":"https://www.amar-khamar.com/cdn/shop/products/BlackPepper2.jpg?v=1637861927&width=713",
+        "latest":"No"
+    },
+    {
+        "id":45,
+        "name":"Ground nut",
+        "amt":"299",
+        "shop":"Grocerry",
+        "ftype":"cereals",
+        "pic":"https://5.imimg.com/data5/SELLER/Default/2022/7/NJ/QM/PP/28284505/dried-groundnut-seeds-1000x1000.jpeg",
+        "latest":"No"
+    },
+    {
+        "id":58,
+        "name":"Potato",
+        "amt":"499",
+        "shop":"Grocerry",
+        "ftype":"cereals",
+        "pic":"https://www.jiomart.com/images/product/original/590000090/potato-1-kg-product-images-o590000090-p590000090-0-202410141244.jpg?im=Resize=(420,420)",
+        "latest":"No"
+    }
+]
+
+
+
+
+
+
+
+
