@@ -16,7 +16,7 @@ export const Cart = ({cart,setCart}) => {
         </div>
         <div className="cart-product-details">
           <h3>{product.name}</h3>
-          <p>Price Rs{product.amt}:</p>
+          <p>Price : ₹{product.amt}</p>
         </div>  
     </div>
     
